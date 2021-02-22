@@ -1,6 +1,7 @@
 '''
 A pi estimator inspired from joma
 Watch his video here https://www.youtube.com/watch?v=pvimAM_SLic
+the higher the value of n the higher the pi value accuracy
 '''
 import random
 
